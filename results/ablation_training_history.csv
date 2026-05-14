@@ -1,0 +1,11 @@
+epoch,train_loss,val_f1,config
+1,0.6887,0.7062,with_weights
+2,0.3231,0.7704,with_weights
+3,0.1801,0.7804,with_weights
+4,0.099,0.7956,with_weights
+5,0.0578,0.7886,with_weights
+1,0.491,0.754,no_weights
+2,0.2321,0.7793,no_weights
+3,0.1337,0.8001,no_weights
+4,0.0705,0.8201,no_weights
+5,0.0419,0.809,no_weights

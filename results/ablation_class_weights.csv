@@ -1,0 +1,6 @@
+metric,with_weights,without_weights,difference
+macro_f1,0.767,0.752,0.015
+accuracy,0.7979,0.7876,0.0103
+negative_f1,0.782,0.7541,0.0279
+neutral_f1,0.8524,0.8436,0.0088
+positive_f1,0.6667,0.6581,0.0086
