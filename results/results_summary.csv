@@ -1,0 +1,11 @@
+metric,value,target,status
+Teacher Accuracy (Llama-3.1-8B),0.8044,≥ 0.88,❌ Below target
+Teacher Cohen Kappa,0.6362,≥ 0.75,❌ Below target
+Student Val Macro F1,0.8028,≥ 0.85,⚠️ Near target
+Student Test Macro F1,0.7452,≥ 0.85,❌ Below target
+Student Test Accuracy,0.7773,≥ 0.88,❌ Below target
+Colab CPU Mean Latency (ms),79.40,≤ 50,❌ Above target
+Model Size (MB),253.20,≤ 300,✅ Pass
+Parameter Reduction vs Teacher,98.3,≥ 98,✅ Pass
+Total Training Samples,3876,—,—
+Failed Pseudo-Labels,0,—,—
