@@ -1,0 +1,7 @@
+seed,model,macro_f1,accuracy,negative_f1,neutral_f1,positive_f1,best_val_f1
+42,KD Pipeline,0.7582,0.7918,0.7704,0.8491,0.6552,0.7987
+7,KD Pipeline,0.7559,0.7918,0.75,0.8482,0.6695,0.806
+123,KD Pipeline,0.7477,0.7814,0.7463,0.8358,0.6609,0.7965
+42,Vanilla Baseline,0.8202,0.833,0.8358,0.8682,0.7566,0.842
+7,Vanilla Baseline,0.8056,0.8206,0.8148,0.8566,0.7452,0.8578
+123,Vanilla Baseline,0.8021,0.8186,0.7879,0.8525,0.766,0.8381
