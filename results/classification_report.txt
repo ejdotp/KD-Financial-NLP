@@ -1,0 +1,24 @@
+FINAL TEST SET RESULTS — SENTIMENT CLASSIFICATION
+==================================================
+              precision    recall  f1-score   support
+
+    negative       0.70      0.80      0.75        61
+     neutral       0.80      0.87      0.83       288
+    positive       0.76      0.57      0.66       136
+
+    accuracy                           0.78       485
+   macro avg       0.75      0.75      0.75       485
+weighted avg       0.78      0.78      0.77       485
+
+Macro F1 Score : 0.7452
+Accuracy       : 0.7773
+
+LOCAL CPU BENCHMARK (AMD Ryzen 5 2500U, Windows 11)
+==================================================
+Mean latency    : 83.86 ms
+Median latency  : 80.63 ms
+Min latency     : 61.89 ms
+Max latency     : 151.61 ms
+Std deviation   : 16.59 ms
+Peak RAM        : 825.1 MB
+Model size      : 253.20 MB
