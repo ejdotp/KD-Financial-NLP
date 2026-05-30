@@ -1,0 +1,11 @@
+# Model weights — too large for GitHub (253 MB each)
+distilbert_finetuned/model_weights.pt
+distilbert_vanilla/model_weights.pt
+
+# Dataset CSV if downloaded locally
+data/financial_phrasebank.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
